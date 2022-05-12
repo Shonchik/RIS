@@ -1,0 +1,35 @@
+batch
+
+18:16:47.266 [main] INFO   - Limit: 10000
+18:16:47.268 [main] INFO   - File decompressing start
+18:16:47.289 [main] INFO   - File decompressing finish
+18:16:47.600 [main] INFO   - OSM processing start
+Insert speed =23251.063829787236
+18:16:48.183 [main] INFO   - OSM processing finish
+Class transformation time: 0.0146571s for 2573 classes or 5.6965021375825884E-6s per class
+
+0.583s
+
+prepared
+
+18:21:02.801 [main] INFO   - Limit: 10000
+18:21:02.803 [main] INFO   - File decompressing start
+18:21:02.825 [main] INFO   - File decompressing finish
+18:21:03.123 [main] INFO   - OSM processing start
+Insert speed =1814.0770252324037
+18:21:09.264 [main] INFO   - OSM processing finish
+Class transformation time: 0.014615s for 2567 classes or 5.693416439423452E-6s per class
+
+6.141s
+
+INSERT
+
+18:22:36.345 [main] INFO   - Limit: 10000
+18:22:36.347 [main] INFO   - File decompressing start
+18:22:36.370 [main] INFO   - File decompressing finish
+18:22:36.673 [main] INFO   - OSM processing start
+Insert speed =1650.7552870090635
+18:22:43.404 [main] INFO   - OSM processing finish
+Class transformation time: 0.0145551s for 2570 classes or 5.663463035019455E-6s per class
+
+6.731s
